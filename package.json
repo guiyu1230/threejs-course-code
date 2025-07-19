@@ -1,0 +1,23 @@
+{
+  "name": "threejs-course-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiyu1230/threejs-course-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiyu1230/threejs-course-code/issues"
+  },
+  "homepage": "https://github.com/guiyu1230/threejs-course-code#readme",
+  "devDependencies": {
+    "@types/three": "^0.177.0"
+  }
+}
